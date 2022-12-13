@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bab5_2018090</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">Toko Helm Jupriyadi adalah yang terbaik</string>
+    <string name="ingredients">Diskon minggu ini 60% OFF</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Helm">Rp.1.000.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">CloseNavigationDrawer</string>
+    <string-array name="Helm">
+        <item>Helm 1</item>
+        <item>Helm 2</item>
+        <item>Helm 3</item>
+    </string-array>
+    <string-array name="Star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>1.500.000</item>
+        <item>3.000.000</item>
+        <item>5.000.000</item>
+    </string-array>
+</resources>
